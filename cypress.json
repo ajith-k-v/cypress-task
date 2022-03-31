@@ -1,0 +1,8 @@
+{
+    "baseUrl":"https://tooljet-testapp.herokuapp.com/",
+    "execTimeout": 1800000,
+    "defaultCommandTimeout": 10000,
+    "requestTimeout": 30000,
+    "pageLoadTimeout": 60000,
+    "responseTimeout": 10000
+}
